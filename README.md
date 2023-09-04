@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey there, I'm Fernando 👋
+> Full-Stack Engineer 🛠 | Global Thinker 🌏 | Data Whisperer 📊
 
-<!--
-**fmaule/fmaule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm up to 🚀
 
-Here are some ideas to get you started:
+- **Coding**: Crafting scalable systems & robust architectures.
+- **Collaborating**: Open for interesting projects and coffee chats.
+- **Learning**: Always reading. Forever evolving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack I work with 🛠
+
+`React` `NextJS` `Node.js` `Docker` `Kubernetes` `CI/CD`
+
+## Connect 🤝
+
+- **LinkedIn**: [Fernando Maule](https://www.linkedin.com/in/fmaule/)
+
+💌 DMs open for collabs or just a friendly chat! 
